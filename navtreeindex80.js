@@ -1,5 +1,17 @@
 var NAVTREEINDEX80 =
 {
+"debug__menu_8h.html#a46422819ca5b0ee740207ca9a8073b7a":[37,0,1,161,5],
+"debug__menu_8h.html#a50b303065b4f4d68e35243048390e4e4":[37,0,1,161,12],
+"debug__menu_8h.html#a5dc4d9bb3df433a7371c7d9ae874e547":[37,0,1,161,16],
+"debug__menu_8h.html#a7ee08848af5ea09ea0bcfc849cc34f4d":[37,0,1,161,2],
+"debug__menu_8h.html#a7ef7b4a54ffab1064ea54225ca4320ad":[37,0,1,161,11],
+"debug__menu_8h.html#a831952bf86e67914a8f0234cc7badabf":[37,0,1,161,9],
+"debug__menu_8h.html#a99e49f64530ff2952b3c4c188b53e5f4":[37,0,1,161,0],
+"debug__menu_8h.html#a9fae725d7f0131e4f2d66ccfe33f4605":[37,0,1,161,3],
+"debug__menu_8h.html#aa07895d5fd8a5172b7e5fa9a1e261fa6":[37,0,1,161,4],
+"debug__menu_8h.html#ab88e02906e27d769939acdbe9a8b7a91":[37,0,1,161,13],
+"debug__menu_8h.html#acc756c5bd6f5ce7cae0e00ba28610d28":[37,0,1,161,7],
+"debug__menu_8h.html#ad36c14af028b1ed09fd929c2ddbe72eb":[37,0,1,161,8],
 "debug__menu_8h_source.html":[37,0,1,161],
 "dependency__tree_8cpp.html":[37,0,1,162],
 "dependency__tree_8cpp.html#a2b641057f6b7c49f5c71943bf21d6f46":[37,0,1,162,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX80 =
 "enum__conversions_8h.html#a24ce984fa4995e6adc9c620d0ce24451":[37,0,1,191,5],
 "enum__conversions_8h.html#a8cb572b045fd34a053f88df453be92d3":[37,0,1,191,4],
 "enum__conversions_8h.html#aa8fa8545615e452e23e6bcc8a6a3a37a":[37,0,1,191,3],
-"enum__conversions_8h.html#af5759f51ba3009d74f0016cde2a20060":[37,0,1,191,1],
-"enum__conversions_8h.html#afd5c400633ed17c42fa88360d8f52a9c":[37,0,1,191,2],
-"enum__conversions_8h_source.html":[37,0,1,191],
-"enum__int__operators_8h.html":[37,0,1,192],
-"enum__int__operators_8h.html#a094a880aa2dc6d46453fbacaa9b2a9ab":[37,0,1,192,1],
-"enum__int__operators_8h.html#a5b303d042093a0ace10b515dc05e6ad8":[37,0,1,192,0],
-"enum__int__operators_8h_source.html":[37,0,1,192],
-"enum__traits_8h.html":[37,0,1,193],
-"enum__traits_8h.html#a323fc4524d7546ac92565c8440ef1157":[37,0,1,193,3],
-"enum__traits_8h.html#a890bc13e9e945ebf425fc86a34db2800":[37,0,1,193,2],
-"enum__traits_8h_source.html":[37,0,1,193],
-"enums_8h.html":[37,0,1,194],
-"enums_8h.html#a00763863874f01b868849b27ceee73c9":[37,0,1,194,20]
+"enum__conversions_8h.html#af5759f51ba3009d74f0016cde2a20060":[37,0,1,191,1]
 };

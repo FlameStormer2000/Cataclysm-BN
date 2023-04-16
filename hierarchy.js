@@ -1691,6 +1691,7 @@ var hierarchy =
     [ "transform_terrain_data", "structtransform__terrain__data.html", null ],
     [ "translatable_mod_info", "structtranslatable__mod__info.html", null ],
     [ "translation", "classtranslation.html", null ],
+    [ "transparency_exp_lookup< n >", "structtransparency__exp__lookup.html", null ],
     [ "cata::transparent_less_than", "structcata_1_1transparent__less__than.html", [
       [ "cata::flat_set< std::string >", "classcata_1_1flat__set.html", null ],
       [ "cata::flat_set< T, Compare, Data >", "classcata_1_1flat__set.html", null ]

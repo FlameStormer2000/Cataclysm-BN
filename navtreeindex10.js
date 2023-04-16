@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"character_8h.html#a8d88c9a764e41f78d403b0fb6976ef56":[37,0,1,93,24],
 "character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633f":[37,0,1,93,13],
 "character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633fa7ab3f388bbf5200ebf5e501260ecddcc":[37,0,1,93,13,4],
 "character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633faab846c0e3717a3e7d14af45cab70b44a":[37,0,1,93,13,1],
@@ -12,7 +13,7 @@ var NAVTREEINDEX10 =
 "character_8h.html#abf088072c9ca5b676f7f7545bac9a137a7ab3f388bbf5200ebf5e501260ecddcc":[37,0,1,93,11,3],
 "character_8h.html#abf088072c9ca5b676f7f7545bac9a137ae349d735a5fa5b10d9770031e669c477":[37,0,1,93,11,2],
 "character_8h.html#abf088072c9ca5b676f7f7545bac9a137afc375b3ddd5525adbdf783e5ade0473d":[37,0,1,93,11,1],
-"character_8h.html#ac9e992a7dff11772e270108ad424e4ab":[37,0,1,93,21],
+"character_8h.html#ac9e992a7dff11772e270108ad424e4ab":[37,0,1,93,22],
 "character_8h.html#ad87be595004034c31843cf782d41c0b5":[37,0,1,93,15],
 "character_8h.html#ad87be595004034c31843cf782d41c0b5a0a7effe1d6f45087e6f1f0f209109bc4":[37,0,1,93,15,10],
 "character_8h.html#ad87be595004034c31843cf782d41c0b5a232e47de967199b15bebe8327183bd6c":[37,0,1,93,15,0],
@@ -25,7 +26,7 @@ var NAVTREEINDEX10 =
 "character_8h.html#ad87be595004034c31843cf782d41c0b5acd7b0fad90d4b19f6a69304d099827ce":[37,0,1,93,15,9],
 "character_8h.html#ad87be595004034c31843cf782d41c0b5acd90043f9adf49fd333cd2109af3f2f5":[37,0,1,93,15,1],
 "character_8h.html#ad87be595004034c31843cf782d41c0b5ae4bacc6aae9091c9d29899746414ece1":[37,0,1,93,15,4],
-"character_8h.html#ad9592dafb578bdbac6e6945f9dffda42":[37,0,1,93,20],
+"character_8h.html#ad9592dafb578bdbac6e6945f9dffda42":[37,0,1,93,21],
 "character_8h.html#aded8b30269da0d4119f07b696e27ceb8":[37,0,1,93,17],
 "character_8h.html#af749573d20b6327d21f9588ebdd5b19b":[37,0,1,93,9],
 "character_8h.html#af749573d20b6327d21f9588ebdd5b19ba3d69a30a227d3f7bcd67e80d164cf786":[37,0,1,93,9,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "character__martial__arts_8h.html":[37,0,1,103],
 "character__martial__arts_8h.html#a7f08e733bbd21e1303309ff5f4dc86b5":[37,0,1,103,1],
 "character__martial__arts_8h_source.html":[37,0,1,103],
-"character__oracle_8cpp.html":[37,0,1,104],
-"character__oracle_8cpp.html#a4513b947a174bc83fbd690dd1a3ef345":[37,0,1,104,0]
+"character__oracle_8cpp.html":[37,0,1,104]
 };

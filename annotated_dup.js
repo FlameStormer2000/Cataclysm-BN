@@ -1367,6 +1367,7 @@ var annotated_dup =
     [ "transform_terrain_data", "structtransform__terrain__data.html", "structtransform__terrain__data" ],
     [ "translatable_mod_info", "structtranslatable__mod__info.html", "structtranslatable__mod__info" ],
     [ "translation", "classtranslation.html", "classtranslation" ],
+    [ "transparency_exp_lookup", "structtransparency__exp__lookup.html", "structtransparency__exp__lookup" ],
     [ "trap", "structtrap.html", "structtrap" ],
     [ "tripoint", "structtripoint.html", "structtripoint" ],
     [ "tripoint_distance", "structtripoint__distance.html", "structtripoint__distance" ],

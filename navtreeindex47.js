@@ -1,5 +1,14 @@
 var NAVTREEINDEX47 =
 {
+"classitem__location_1_1impl_1_1item__on__person.html#ae4ad7b09eb6ecea1396fd9d8d54fe3ae":[36,0,480,0,2,6],
+"classitem__location_1_1impl_1_1item__on__vehicle.html":[36,0,480,0,3],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a10c004c233e967455fb39c566107be0b":[36,0,480,0,3,6],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a30929ecfeeddef703679074ff54f24d4":[36,0,480,0,3,8],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a4d6e647a521e20df7f7c9645e154e2c3":[36,0,480,0,3,7],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a607b085d32a2b3b9bf8806297d898a65":[36,0,480,0,3,0],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a6adcf1693ef8bc77e91111c02e3f9665":[36,0,480,0,3,4],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a7e74a6e1754402dceec43c3382808301":[36,0,480,0,3,10],
+"classitem__location_1_1impl_1_1item__on__vehicle.html#a7f0fe2c0b2f58edc5212121beffff4db":[36,0,480,0,3,9],
 "classitem__location_1_1impl_1_1item__on__vehicle.html#a8a592fca91c2b7a3fa987376c0cdfabf":[36,0,480,0,3,3],
 "classitem__location_1_1impl_1_1item__on__vehicle.html#a93583860db69dd3df5d3965d1e6f8411":[36,0,480,0,3,5],
 "classitem__location_1_1impl_1_1item__on__vehicle.html#ab4615a844a527c27d40d2c0a7e18e457":[36,0,480,0,3,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX47 =
 "classjmapgen__nested_1_1neighborhood__check.html#ab2175e1cfa340eb354825ece24d1180b":[36,0,510,0,1],
 "classjmapgen__nested_1_1neighborhood__check.html#adf374b8676171ef9f70e3aa27acb59db":[36,0,510,0,0],
 "classjmapgen__nested_1_1neighborhood__check.html#aec1c5d01f43bd8cfe71d034afc847250":[36,0,510,0,2],
-"classjmapgen__npc.html":[36,0,511],
-"classjmapgen__npc.html#a58bf6ce68d1627369f316dbef3833adf":[36,0,511,2],
-"classjmapgen__npc.html#aa7b489df4ecc3658dfba7b58175344c3":[36,0,511,1],
-"classjmapgen__npc.html#aa85eae06a7dd49022e1758494b99e637":[36,0,511,0],
-"classjmapgen__npc.html#ad58a936f8f0d58df91e936fa8c50e2c9":[36,0,511,4],
-"classjmapgen__npc.html#afaded5d075d129253329ab784d25ccaa":[36,0,511,3],
-"classjmapgen__piece.html":[36,0,513],
-"classjmapgen__piece.html#a24689120105acbefe3d831f568ab6bff":[36,0,513,5],
-"classjmapgen__piece.html#a383098fbf7f08d4fb83283643bbe88c5":[36,0,513,0],
-"classjmapgen__piece.html#a74492b6c35350d7c43725ea1a3182fff":[36,0,513,3]
+"classjmapgen__npc.html":[36,0,511]
 };

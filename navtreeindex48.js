@@ -1,5 +1,14 @@
 var NAVTREEINDEX48 =
 {
+"classjmapgen__npc.html#a58bf6ce68d1627369f316dbef3833adf":[36,0,511,2],
+"classjmapgen__npc.html#aa7b489df4ecc3658dfba7b58175344c3":[36,0,511,1],
+"classjmapgen__npc.html#aa85eae06a7dd49022e1758494b99e637":[36,0,511,0],
+"classjmapgen__npc.html#ad58a936f8f0d58df91e936fa8c50e2c9":[36,0,511,4],
+"classjmapgen__npc.html#afaded5d075d129253329ab784d25ccaa":[36,0,511,3],
+"classjmapgen__piece.html":[36,0,513],
+"classjmapgen__piece.html#a24689120105acbefe3d831f568ab6bff":[36,0,513,5],
+"classjmapgen__piece.html#a383098fbf7f08d4fb83283643bbe88c5":[36,0,513,0],
+"classjmapgen__piece.html#a74492b6c35350d7c43725ea1a3182fff":[36,0,513,3],
 "classjmapgen__piece.html#a82c99884542de41c80a197f389afe18a":[36,0,513,2],
 "classjmapgen__piece.html#ab4088bc4883e7a9f3c661abd1b8394ec":[36,0,513,1],
 "classjmapgen__piece.html#adf9845ad8cb15013e7f838c25aa6b8a6":[36,0,513,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX48 =
 "classlightson__game.html":[36,0,561],
 "classlightson__game.html#a0ae693de1088e51f61e71678db0f0b46":[36,0,561,13],
 "classlightson__game.html#a0cc0c1dfd8fad29dd870a47fc149fde4":[36,0,561,15],
-"classlightson__game.html#a11a1d05b52e6ce295cdb5c65cff77406":[36,0,561,2],
-"classlightson__game.html#a122c6d338aa2080107bc0f670d1a482c":[36,0,561,10],
-"classlightson__game.html#a2cd560385a7025c37f1062fc124a45a2":[36,0,561,4],
-"classlightson__game.html#a3883a9e6884d35527c6cb7fb82cec0fb":[36,0,561,16],
-"classlightson__game.html#a467c7a2a137ba1d1058453528a347723":[36,0,561,7],
-"classlightson__game.html#a480d5f513b80a36249b66e1377babf06":[36,0,561,0],
-"classlightson__game.html#a52db8776c555360384ea687bb0816e76":[36,0,561,11],
-"classlightson__game.html#a58b60c160f4caa5d2997f34423c3d78c":[36,0,561,12],
-"classlightson__game.html#a5f72a0bb0a537ca837ccc12e3fe88a3a":[36,0,561,18],
-"classlightson__game.html#a7f610f4fb957abfc51466ee61049ccfb":[36,0,561,3]
+"classlightson__game.html#a11a1d05b52e6ce295cdb5c65cff77406":[36,0,561,2]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX64 =
 {
+"classset__transformed__iuse.html":[36,0,837],
+"classset__transformed__iuse.html#a0d57a15642c72519cfdf45de1d7450e7":[36,0,837,1],
+"classset__transformed__iuse.html#a1002acbb360d66c4d12b54ef12562cd7":[36,0,837,5],
+"classset__transformed__iuse.html#a31b1d9b102e8b12c311ad7a5ac7adbb4":[36,0,837,6],
+"classset__transformed__iuse.html#a56057cab428dab8119e26ea456feb3b4":[36,0,837,0],
+"classset__transformed__iuse.html#a64c6c210c7bb95b743c5d14872d9a444":[36,0,837,4],
+"classset__transformed__iuse.html#a8259eefe072d99d3bfd926c57ad6608f":[36,0,837,8],
+"classset__transformed__iuse.html#abe308e1c670498892df747ecd1b5cddf":[36,0,837,3],
+"classset__transformed__iuse.html#addd27ac331e7684188e78685397024c4":[36,0,837,7],
+"classset__transformed__iuse.html#ae998ccc9aa3c7bf35bdee468989fccbd":[36,0,837,2],
 "classsew__advanced__actor.html":[36,0,838],
 "classsew__advanced__actor.html#a1440a9eb17b38331033c51bdd626b6db":[36,0,838,4],
 "classsew__advanced__actor.html#a35224a2130ce609233be57e676694e58":[36,0,838,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX64 =
 "classspell__type.html#a54a3704127c6ab03b7314bc998522e04":[36,0,869,32],
 "classspell__type.html#a59eb908196f88bfbdd0008756ee0eb65":[36,0,869,0],
 "classspell__type.html#a61586c5b42a35fae0316638887ad2b5c":[36,0,869,48],
-"classspell__type.html#a622e9bdd1c126963589e5b0e94940d17":[36,0,869,39],
-"classspell__type.html#a68c5cf79d70abd2ef100741669d5a21e":[36,0,869,23],
-"classspell__type.html#a68d4b8d588678a744b71d8daf3ea38f7":[36,0,869,18],
-"classspell__type.html#a6bbe078f2050f36b6a939d4cc3ea9f67":[36,0,869,22],
-"classspell__type.html#a6dd12b61f97e0c45c1aa53d1f6e34175":[36,0,869,51],
-"classspell__type.html#a7436c8ae9f9a5aa472e2792ee781e091":[36,0,869,28],
-"classspell__type.html#a74d93ff32c5d02d21548e7164e39b7f1":[36,0,869,59],
-"classspell__type.html#a77a45ea3e4de418a9fbe8849be99d27c":[36,0,869,58],
-"classspell__type.html#a81a64cc3c9126fa0c70e91e993b760ad":[36,0,869,36],
-"classspell__type.html#a868516b343411f98fcf2a2c961de01cb":[36,0,869,54],
-"classspell__type.html#a8a9f3e75988d34cf9e89abfec583ba67":[36,0,869,57]
+"classspell__type.html#a622e9bdd1c126963589e5b0e94940d17":[36,0,869,39]
 };

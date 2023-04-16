@@ -2525,22 +2525,22 @@ template&lt;&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="mission_8cpp_source.html#l00708">708</a> of file <a class="el" href="mission_8cpp_source.html">mission.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l00709" name="l00709"></a><span class="lineno">  709</span>{</div>
-<div class="line"><a id="l00710" name="l00710"></a><span class="lineno">  710</span>    <span class="keywordflow">switch</span>( data ) {</div>
-<div class="line"><a id="l00711" name="l00711"></a><span class="lineno">  711</span>        <span class="comment">// *INDENT-OFF*</span></div>
-<div class="line"><a id="l00712" name="l00712"></a><span class="lineno">  712</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740abed340370728870364bb0a3801cd958a">mission::mission_status::yet_to_start</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;yet_to_start&quot;</span>;</div>
-<div class="line"><a id="l00713" name="l00713"></a><span class="lineno">  713</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740af7222d1de86ad4d56764a2be21b792e2">mission::mission_status::in_progress</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;in_progress&quot;</span>;</div>
-<div class="line"><a id="l00714" name="l00714"></a><span class="lineno">  714</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a260ca9dd8a4577fc00b7bd5810298076">mission::mission_status::success</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;success&quot;</span>;</div>
-<div class="line"><a id="l00715" name="l00715"></a><span class="lineno">  715</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a3ee28fe1a60c95b89d29317f122c7021">mission::mission_status::failure</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;failure&quot;</span>;</div>
-<div class="line"><a id="l00716" name="l00716"></a><span class="lineno">  716</span>        <span class="comment">// *INDENT-ON*</span></div>
-<div class="line"><a id="l00717" name="l00717"></a><span class="lineno">  717</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a49d27222d98082bba703310a21eca6bf">mission::mission_status::num_mission_status</a>:</div>
-<div class="line"><a id="l00718" name="l00718"></a><span class="lineno">  718</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l00719" name="l00719"></a><span class="lineno">  719</span> </div>
-<div class="line"><a id="l00720" name="l00720"></a><span class="lineno">  720</span>    }</div>
-<div class="line"><a id="l00721" name="l00721"></a><span class="lineno">  721</span>    <a class="code hl_define" href="debug_8h.html#a87e509562277a7ada3a75330d00cb445">debugmsg</a>( <span class="stringliteral">&quot;Invalid mission_status&quot;</span> );</div>
-<div class="line"><a id="l00722" name="l00722"></a><span class="lineno">  722</span>    <a class="code hl_enumvalue" href="vehicle_8h.html#a120e32a2f241b5f666c5189a2f405eeaa5bb94a1c12413a2e5d14deabab29f2aa">abort</a>();</div>
-<div class="line"><a id="l00723" name="l00723"></a><span class="lineno">  723</span>}</div>
+<p class="definition">Definition at line <a class="el" href="mission_8cpp_source.html#l00700">700</a> of file <a class="el" href="mission_8cpp_source.html">mission.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00701" name="l00701"></a><span class="lineno">  701</span>{</div>
+<div class="line"><a id="l00702" name="l00702"></a><span class="lineno">  702</span>    <span class="keywordflow">switch</span>( data ) {</div>
+<div class="line"><a id="l00703" name="l00703"></a><span class="lineno">  703</span>        <span class="comment">// *INDENT-OFF*</span></div>
+<div class="line"><a id="l00704" name="l00704"></a><span class="lineno">  704</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740abed340370728870364bb0a3801cd958a">mission::mission_status::yet_to_start</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;yet_to_start&quot;</span>;</div>
+<div class="line"><a id="l00705" name="l00705"></a><span class="lineno">  705</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740af7222d1de86ad4d56764a2be21b792e2">mission::mission_status::in_progress</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;in_progress&quot;</span>;</div>
+<div class="line"><a id="l00706" name="l00706"></a><span class="lineno">  706</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a260ca9dd8a4577fc00b7bd5810298076">mission::mission_status::success</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;success&quot;</span>;</div>
+<div class="line"><a id="l00707" name="l00707"></a><span class="lineno">  707</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a3ee28fe1a60c95b89d29317f122c7021">mission::mission_status::failure</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;failure&quot;</span>;</div>
+<div class="line"><a id="l00708" name="l00708"></a><span class="lineno">  708</span>        <span class="comment">// *INDENT-ON*</span></div>
+<div class="line"><a id="l00709" name="l00709"></a><span class="lineno">  709</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a49d27222d98082bba703310a21eca6bf">mission::mission_status::num_mission_status</a>:</div>
+<div class="line"><a id="l00710" name="l00710"></a><span class="lineno">  710</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00711" name="l00711"></a><span class="lineno">  711</span> </div>
+<div class="line"><a id="l00712" name="l00712"></a><span class="lineno">  712</span>    }</div>
+<div class="line"><a id="l00713" name="l00713"></a><span class="lineno">  713</span>    <a class="code hl_define" href="debug_8h.html#a87e509562277a7ada3a75330d00cb445">debugmsg</a>( <span class="stringliteral">&quot;Invalid mission_status&quot;</span> );</div>
+<div class="line"><a id="l00714" name="l00714"></a><span class="lineno">  714</span>    <a class="code hl_enumvalue" href="vehicle_8h.html#a120e32a2f241b5f666c5189a2f405eeaa5bb94a1c12413a2e5d14deabab29f2aa">abort</a>();</div>
+<div class="line"><a id="l00715" name="l00715"></a><span class="lineno">  715</span>}</div>
 <div class="ttc" id="aclassmission_html_a1ccff41e9c5302e8731fbe4382788740a260ca9dd8a4577fc00b7bd5810298076"><div class="ttname"><a href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a260ca9dd8a4577fc00b7bd5810298076">mission::mission_status::success</a></div><div class="ttdeci">@ success</div></div>
 <div class="ttc" id="aclassmission_html_a1ccff41e9c5302e8731fbe4382788740a3ee28fe1a60c95b89d29317f122c7021"><div class="ttname"><a href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a3ee28fe1a60c95b89d29317f122c7021">mission::mission_status::failure</a></div><div class="ttdeci">@ failure</div></div>
 <div class="ttc" id="aclassmission_html_a1ccff41e9c5302e8731fbe4382788740a49d27222d98082bba703310a21eca6bf"><div class="ttname"><a href="classmission.html#a1ccff41e9c5302e8731fbe4382788740a49d27222d98082bba703310a21eca6bf">mission::mission_status::num_mission_status</a></div><div class="ttdeci">@ num_mission_status</div></div>
@@ -3739,7 +3739,7 @@ template&lt;typename C , typename E  = typename C::mapped_type&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceio.html">io</a></li>
-    <li class="footer">Generated on Fri Apr 7 2023 18:34:55 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Apr 16 2023 17:41:48 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

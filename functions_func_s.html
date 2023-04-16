@@ -453,6 +453,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_should_stack()&#160;:&#160;<a class="el" href="classitem__location.html#a282d636b1fb2b9be4d62123d2a4963e0">item_location</a></li>
 <li>set_side()&#160;:&#160;<a class="el" href="classitem.html#a06f562ce239a39f4220143f7cd4998e9">item</a></li>
 <li>set_signage()&#160;:&#160;<a class="el" href="classmap.html#ae7ef998adaaa74d9755c10a5c61200a3">map</a>, <a class="el" href="classsubmap.html#a989f1f395586c626ddb0126661a3b260">submap</a></li>
+<li>set_size()&#160;:&#160;<a class="el" href="classMessages_1_1dialog.html#a99be62312deba7719fc965b9f32beb6e">Messages::dialog</a></li>
 <li>set_skill_level()&#160;:&#160;<a class="el" href="classCharacter.html#aac28618b387cf4ce36252e47699938d5">Character</a></li>
 <li>set_sleep_deprivation()&#160;:&#160;<a class="el" href="classCharacter.html#a2e658d88946cc7abba5333ad4cd3f153">Character</a></li>
 <li>set_snippet()&#160;:&#160;<a class="el" href="classitem.html#a9e4a83dab7a888fbbe93db9cbfaa563c">item</a></li>
@@ -462,6 +463,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_specific_override_state()&#160;:&#160;<a class="el" href="structnpc__follower__rules.html#a94bc24add28251875b01cc0db1053cdc">npc_follower_rules</a></li>
 <li>set_speed_base()&#160;:&#160;<a class="el" href="classCreature.html#afedb5874d4d3438d3c82cb2104ec49fa">Creature</a></li>
 <li>set_speed_bonus()&#160;:&#160;<a class="el" href="classCreature.html#a81fd71e521e09908425fc63a64458f59">Creature</a></li>
+<li>set_speed_mult()&#160;:&#160;<a class="el" href="classCreature.html#a2cdf066b6397c6c33126aa6b0abeda57">Creature</a></li>
 <li>set_stack_favorite()&#160;:&#160;<a class="el" href="classinventory.html#a2281b32f4df4f4a332bba5b47def9649">inventory</a>, <a class="el" href="classinventory__column.html#a9a9c3ee8ce46c5e3be8b20a2b953f9d8">inventory_column</a></li>
 <li>set_stamina()&#160;:&#160;<a class="el" href="classCharacter.html#a65642ccc4e3370f7a594d77e4e1fd374">Character</a></li>
 <li>set_stashed_activity()&#160;:&#160;<a class="el" href="classCharacter.html#a2cf9e2a42d88b976ac9d0f0afa27dfde">Character</a></li>
@@ -641,7 +643,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>sort_ascending()&#160;:&#160;<a class="el" href="structarea__expander.html#ad6fc72137c746bc09bc9dc9e3f987bca">area_expander</a></li>
 <li>sort_compare()&#160;:&#160;<a class="el" href="classcomestible__inventory__preset.html#a1a1975d513d01c050c1394c1cf93e45d">comestible_inventory_preset</a>, <a class="el" href="classgunmod__inventory__preset.html#a00d7b417e5de33b125f65187d3c8dcd2">gunmod_inventory_preset</a>, <a class="el" href="classinventory__selector__preset.html#a0214f6cc9c32330142b215e88703e8e1">inventory_selector_preset</a>, <a class="el" href="classread__inventory__preset.html#a9503a5ff7d4e1b2f3af2b616e13a5326">read_inventory_preset</a></li>
 <li>sort_data()&#160;:&#160;<a class="el" href="classcata_1_1flat__set.html#a80c30cfc625f275e2b51f11a6d51085b">cata::flat_set&lt; T, Compare, Data &gt;</a></li>
-<li>sort_dereferencer()&#160;:&#160;<a class="el" href="structcata_1_1colony_1_1sort__dereferencer.html#a5c42c5ce5bf32e517ac0852076d58d13">cata::colony&lt; element_type, element_allocator_type, element_skipfield_type &gt;::sort_dereferencer&lt; comparison_function &gt;</a>, <a class="el" href="structcata_1_1list_1_1sort__dereferencer.html#afe73a46e0a664cd352750da218b91283">cata::list&lt; element_type, element_allocator_type &gt;::sort_dereferencer&lt; comparison_function &gt;</a></li>
+<li>sort_dereferencer()&#160;:&#160;<a class="el" href="structcata_1_1colony_1_1sort__dereferencer.html#a12b40e63cc7cc6a501be3fb6ba288504">cata::colony&lt; element_type, element_allocator_type, element_skipfield_type &gt;::sort_dereferencer&lt; comparison_function &gt;</a>, <a class="el" href="structcata_1_1list_1_1sort__dereferencer.html#afe73a46e0a664cd352750da218b91283">cata::list&lt; element_type, element_allocator_type &gt;::sort_dereferencer&lt; comparison_function &gt;</a></li>
 <li>sort_descending()&#160;:&#160;<a class="el" href="structarea__expander.html#a18bbb064f2b79f5ab41b4ab11838996b">area_expander</a></li>
 <li>sort_rank()&#160;:&#160;<a class="el" href="classitem__category.html#a5500b224cb48c78f3eef0bc50a09746d">item_category</a></li>
 <li>sound_hallu()&#160;:&#160;<a class="el" href="classCharacter.html#a0923956a07957b673415d4a0a7b79014">Character</a></li>
@@ -830,7 +832,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Apr 7 2023 18:34:58 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Apr 16 2023 17:41:52 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

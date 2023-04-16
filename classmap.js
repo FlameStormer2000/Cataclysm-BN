@@ -171,6 +171,7 @@ var classmap =
     [ "find_furnitures_or_vparts_with_flag_in_radius", "classmap.html#af2159b4dcce5f94f89299d902917b0f9", null ],
     [ "find_furnitures_with_flag_in_radius", "classmap.html#a5e5055e48a79647a051c6f1b845fc25a", null ],
     [ "flammable_items_at", "classmap.html#ab1a08686c7d7b52636e0362ac4a0847f", null ],
+    [ "floor_between", "classmap.html#acac0871dcfba18c12bb6090d2189a274", null ],
     [ "free_volume", "classmap.html#a5aed3d4e04f4571603bb532f95f08f47", null ],
     [ "function_over", "classmap.html#af3309f3c1ff4423e66e1100277db8d82", null ],
     [ "furn", "classmap.html#af55e014aab791bbe4c8630361c1311dd", null ],
